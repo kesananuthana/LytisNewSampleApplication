@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LytisNewSampleApplication/static/css/main.1acd065e.css",
+    "main.css": "/LytisNewSampleApplication/static/css/main.3006f7f3.css",
     "main.js": "/LytisNewSampleApplication/static/js/main.b6ef45a4.js",
     "static/js/453.fe1c497e.chunk.js": "/LytisNewSampleApplication/static/js/453.fe1c497e.chunk.js",
     "static/media/emp.jpeg": "/LytisNewSampleApplication/static/media/emp.810210bd091f5532c7c9.jpeg",
     "static/media/About.jpeg": "/LytisNewSampleApplication/static/media/About.2a970dd7a00e516d82df.jpeg",
     "index.html": "/LytisNewSampleApplication/index.html",
-    "main.1acd065e.css.map": "/LytisNewSampleApplication/static/css/main.1acd065e.css.map",
+    "main.3006f7f3.css.map": "/LytisNewSampleApplication/static/css/main.3006f7f3.css.map",
     "main.b6ef45a4.js.map": "/LytisNewSampleApplication/static/js/main.b6ef45a4.js.map",
     "453.fe1c497e.chunk.js.map": "/LytisNewSampleApplication/static/js/453.fe1c497e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1acd065e.css",
+    "static/css/main.3006f7f3.css",
     "static/js/main.b6ef45a4.js"
   ]
 }
